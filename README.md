@@ -1,5 +1,8 @@
 # Python Projects
 
+## Countdown Timer
+Timer that counts down from inputted number
+
 ## Grader
 Input letter or percentage grade to get final grade
 
