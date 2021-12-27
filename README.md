@@ -3,6 +3,9 @@
 ## Countdown Timer
 Timer that counts down from inputted number
 
+## Dice Rolling Simulator
+Simulates rolling dice
+
 ## Grader
 Input letter or percentage grade to get final grade
 
