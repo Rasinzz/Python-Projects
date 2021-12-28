@@ -14,3 +14,6 @@ Generates a specific number of passwords with a specific number of characters
 
 ## Rock Paper Scissors
 Takes two user inputs to get a winner
+
+## Steam Name Changer
+Change's your Steam username to inputted username
